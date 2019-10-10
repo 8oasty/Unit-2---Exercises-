@@ -40,10 +40,26 @@ h3 {
   border-top: 2px solid lightgrey;
 }
 
+a:link {
+  color: orange;
+}
 
+a:visited {
+  color: lightblue;
+}
 
+a:hover {
+  color: forestgreen;
+}
 
+p:active {
+  color: lightcoral;
+}
 
+:focus {
+  color: white;
+  background-color: orange;
+}
 
 
 
