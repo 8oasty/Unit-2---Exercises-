@@ -21,8 +21,8 @@ nav a:hover {
 /* Create hover and visited styles for all links inside 'main' */
 
 main a:hover {
-    text-decoration: none;
-    color: violet;
+ text-decoration: none;
+ color: violet;
 }
 
 main a:visited {
