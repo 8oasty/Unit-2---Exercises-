@@ -37,6 +37,17 @@ img {
   margin-bottom: 20px;
 }
 
+ul,
+ol {
+  margin: 10px;
+}
+
+li {
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+
 /* Pseudo-classes ------------------ */
 
 a:link {
